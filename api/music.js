@@ -112,5 +112,65 @@ let allMusic = [
         artist : "서동현",
         img : "music-19",
         audio : "music-19"
+    },
+    {
+        name : "긴 꿈 (feat. 이하이)",
+        artist : "B.I",
+        img : "music-20",
+        audio : "music-20"
+    },
+    {
+        name : "원효대사",
+        artist : "Layone(래원)",
+        img : "music-21",
+        audio : "music-21"
+    },
+    {
+        name : "또 하루 (feat. 개코(Gaeko))",
+        artist : "개리(GARY)",
+        img : "music-22",
+        audio : "music-22"
+    },
+    {
+        name : "바람이나 좀 쐐 (feat. MIWOO)",
+        artist : "개리(GARY)",
+        img : "music-23",
+        audio : "music-23"
+    },
+    {
+        name : "사건의 지평선",
+        artist : "윤하(YOUNHA)",
+        img : "music-24",
+        audio : "music-24"
+    },
+    {
+        name : "오르트구름",
+        artist : "윤하(YOUNHA)",
+        img : "music-25",
+        audio : "music-25"
+    },
+    {
+        name : "도망가",
+        artist : "송민호(MINO)",
+        img : "music-26",
+        audio : "music-26"
+    },
+    {
+        name : "Fadeaway",
+        artist : "Jvcki Wai, Coogie, Paloalto, The Quiett, BASSAGONG",
+        img : "music-27",
+        audio : "music-27"
+    },
+    {
+        name : "사라질것들 (feat. 이소라 & Beenzino)",
+        artist : "병살(정준하 & 김C)",
+        img : "music-28",
+        audio : "music-28"
+    },
+    {
+        name : "아낙네(FIANCÉ)",
+        artist : "송민호(MINO)",
+        img : "music-29",
+        audio : "music-29"
     }
 ]
