@@ -172,5 +172,11 @@ let allMusic = [
         artist : "송민호(MINO)",
         img : "music-29",
         audio : "music-29"
+    },
+    {
+        name : "Nxde",
+        artist : "(여자)아이들((G)I-DLE)",
+        img : "music-30",
+        audio : "music-30"
     }
 ]
