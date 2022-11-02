@@ -178,5 +178,65 @@ let allMusic = [
         artist : "(여자)아이들((G)I-DLE)",
         img : "music-30",
         audio : "music-30"
+    },
+    {
+        name : "비밀번호 486",
+        artist : "윤하(YOUNHA)",
+        img : "music-31",
+        audio : "music-31"
+    },
+    {
+        name : "엉켜 (feat. pH-1)",
+        artist : "Loco(로꼬)",
+        img : "music-32",
+        audio : "music-32"
+    },
+    {
+        name : "종 (feat. 효린)",
+        artist : "선재(snzee)",
+        img : "music-33",
+        audio : "music-33"
+    },
+    {
+        name : "Middle Fingers-Up",
+        artist : "G-DRAGON (권지용)",
+        img : "music-34",
+        audio : "music-34"
+    },
+    {
+        name : "개소리",
+        artist : "G-DRAGON (권지용)",
+        img : "music-35",
+        audio : "music-35"
+    },
+    {
+        name : "SUPER STAR",
+        artist : "G-DRAGON (권지용)",
+        img : "music-36",
+        audio : "music-36"
+    },
+    {
+        name : "무제(無題)",
+        artist : "G-DRAGON (권지용)",
+        img : "music-37",
+        audio : "music-37"
+    },
+    {
+        name : "신곡(神曲)",
+        artist : "G-DRAGON (권지용)",
+        img : "music-38",
+        audio : "music-38"
+    },
+    {
+        name : "BAD BOY",
+        artist : "BIGBANG",
+        img : "music-39",
+        audio : "music-39"
+    },
+    {
+        name : "That Way",
+        artist : "Lil Uzi Vert",
+        img : "music-40",
+        audio : "music-40"
     }
 ]
